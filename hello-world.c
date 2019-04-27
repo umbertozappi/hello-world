@@ -1,5 +1,5 @@
 /*************************************
- * Examlpe file .c of Hello World!
+ * Example file .c of Hello World!
  */
 
 #include <stdio.h>
